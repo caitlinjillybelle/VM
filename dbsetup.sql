@@ -1,0 +1,4 @@
+DROP TABLE database;
+CREATE TABLE table1(i VARCHAR2(20), v VARCHAR2(20), n VARCHAR2(20);
+INSERT INTO table1(item1, item2, item3);
+COMMIT;
